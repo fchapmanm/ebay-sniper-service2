@@ -1,0 +1,12 @@
+{
+  "name": "ebay-card-bot",
+  "version": "1.0.0",
+  "description": "Bot de eBay + n8n + Telegram para gangas de cartas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
